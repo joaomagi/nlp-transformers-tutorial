@@ -28,7 +28,7 @@ De forma resumida NLU é uma subárea da NLP que é  responsável pela traduçã
 
 - Escolha do modelo: seleção do modelo de Machine Learning mais adequada para a tarefa que será executada, como classificar textos em categorias e gerar texto automaticamente;
 
--Treinamento do modelo: o modelo é treinado com os dados preparados, aprendendo a identificar padrões, entidades e relações entre as palavras;
+- Treinamento do modelo: o modelo é treinado com os dados preparados, aprendendo a identificar padrões, entidades e relações entre as palavras;
 
 - Avaliação do modelo: após o treinamento, é feito um teste do desempenho do modelo para verificar se ele está fazendo as previsões corretas;
 

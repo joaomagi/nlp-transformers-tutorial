@@ -4,6 +4,7 @@
 O Processamento de Linguagem Natural (NLP) é uma área da Inteligência Artificial que ensina um computador a entender e gerar conteúdos na linguagem humana. A tecnologia permite que a máquina analise e traduza textos, além de responder a perguntas e conversar com humanos.
 Alguns exemplo de NPL são: Chatbots, Tradução automática de texto ou fala, verificação gramatical entre outros, Agora um exemplo mais especifico são as assistentes virtuais como Siri, Cortana ou Alexa, quando fazemos perguntas para esses assistentes virtuais, o NLP é o que permite que eles não apenas entendam a  nossa solicitação, mas também respondam em linguagem natural.
 
+---
 
 ### Natural Language Understanding ou Compreensão de linguagem natural (NLU)
 
@@ -13,6 +14,8 @@ a linguagem de máquina, ou seja, aquela que faz com que computadores funcionem,
 O motivo para isso é que entender uma língua natural exige mais do que somente a tradução de zeros e uns. Uma língua tem regras gramaticais, sintaxe, intenção, uma lógica humana, porém, nosso cérebro parece realizar esse procedimento de uma forma impecável o que torna isso um grande desafio.
 
 De forma resumida NLU é uma subárea da NLP que é  responsável pela tradução das palavras humanas natural para um formato que o computador possa interpretar, buscando meios de converter o funcionamento do nosso cérebro ao processar, aprender e aplicar linguagem natural para um modelo que seja aplicável também em máquinas. Dessa forma, essas máquinas poderão entender o que dizemos, processar essa informação, tomar decisões efetivas e realizar ações por conta própria.
+
+---
 
 # Como o NLP funciona?
 ## O funcionamento do NLP pode ser dividido em 8 etapas:
@@ -32,6 +35,8 @@ De forma resumida NLU é uma subárea da NLP que é  responsável pela traduçã
 - Uso do modelo em novas tarefas: o modelo treinado pode ser usado para realizar diversas tarefas, como responder a perguntas, traduzir textos ou gerar resumos;
 
 - Melhoria contínua: o modelo é constantemente aprimorado com adição de novos dados e a utilização de técnicas mais avançadas.
+
+---
 
 # Aplicações do NLP
 

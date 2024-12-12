@@ -9,7 +9,7 @@ Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, 
 
 ## Natural Language Understanding ou Compreensão de Linguagem Natural (NLU)
 
-Vamos entender o conceito de linguagem natural. Dentro dos estudos da Linguística, é chamada de linguagem natural toda aquela que surge de forma espontânea de um grupo de fala. Temos como exemplos de línguas naturais o português, inglês, francês, espanhol, língua de sinais, etc.  
+Vamos entender o conceito de **linguagem natural**. Dentro dos estudos da Linguística, é chamada de linguagem natural toda aquela que surge de forma espontânea de um grupo de fala. Temos como exemplos de línguas naturais o português, inglês, francês, espanhol, língua de sinais, etc.  
 Já a linguagem de máquina, ou seja, aquela que faz com que computadores funcionem, é completamente diferente da linguagem humana. Para estabelecer um canal de comunicação com a máquina, é necessário traduzir essas informações para uma codificação binária. Essa comunicação seria mais primitiva, permitindo apenas requisitar que a máquina cumprisse tarefas e realizasse funções a partir de uma lógica básica. Contudo, ela não estaria realmente processando o que estamos dizendo nem compreendendo a fundo.
 
 O motivo para isso é que entender uma língua natural exige mais do que somente a tradução de zeros e uns. Uma língua tem regras gramaticais, sintaxe, intenção e lógica humana. Nosso cérebro realiza esse procedimento de forma impecável, tornando isso um grande desafio para as máquinas.  

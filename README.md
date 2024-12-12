@@ -9,6 +9,8 @@ Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, 
 
 > E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
 
+![Tokenização](https://via.placeholder.com/600x300)  
+
 ---
 
 ## Natural Language Understanding ou Compreensão de Linguagem Natural (NLU)

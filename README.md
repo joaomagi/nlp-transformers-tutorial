@@ -7,7 +7,7 @@ Vamos nos aprofundar mais no assunto.
 O Processamento de Linguagem Natural (NLP) é uma área da Inteligência Artificial que ensina um computador a entender e gerar conteúdos na linguagem humana. A tecnologia permite que a máquina analise e traduza textos, além de responder a perguntas e conversar com humanos.  
 Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, verificação gramatical, entre outros. Um exemplo mais específico são as assistentes virtuais como Siri, Cortana ou Alexa. Quando fazemos perguntas para esses assistentes virtuais, o NLP é o que permite que eles não apenas entendam a nossa solicitação, mas também respondam em linguagem natural.
 
-E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
+> E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
 
 ---
 

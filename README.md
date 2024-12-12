@@ -20,7 +20,7 @@ O motivo para isso é que entender uma língua natural exige mais do que somente
 
 De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das palavras humanas naturais para um formato que o computador possa interpretar. Ela busca meios de converter o funcionamento do nosso cérebro ao processar, aprender e aplicar linguagem natural em um modelo que seja aplicável a máquinas. Dessa forma, essas máquinas poderão entender o que dizemos, processar essa informação, tomar decisões efetivas e realizar ações por conta própria.
 
-Você já parou para pensar na complexidade por trás da comunicação humana? E em como a tecnologia tenta reproduzir isso de forma precisa?  
+> Você já parou para pensar na complexidade por trás da comunicação humana? E em como a tecnologia tenta reproduzir isso de forma precisa?  
 
 ---
 
@@ -60,4 +60,4 @@ Você já parou para pensar na complexidade por trás da comunicação humana? E
 
 - **Moderação de conteúdo:** Assim como na análise de sentimentos, algumas plataformas online usam o NLP para identificar e remover conteúdos ofensivos ou inadequados, garantindo um ambiente seguro para os usuários.
 
-Qual dessas aplicações você já utilizou? Há alguma que te surpreenda pela utilidade ou inovação?  
+> Qual dessas aplicações você já utilizou? Há alguma que te surpreenda pela utilidade ou inovação?  

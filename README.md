@@ -9,8 +9,6 @@ Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, 
 
 > E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
 
-![Tokenização](https://via.placeholder.com/600x300)  
-
 ---
 
 ## Natural Language Understanding ou Compreensão de Linguagem Natural (NLU)
@@ -45,6 +43,8 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 7. **Uso do modelo em novas tarefas:** O modelo treinado pode ser usado para realizar diversas tarefas, como responder a perguntas, traduzir textos ou gerar resumos.
    
 8. **Melhoria contínua:** O modelo é constantemente aprimorado com a adição de novos dados e a utilização de técnicas mais avançadas.
+
+![Funcionamento NLP]()  
 
 ---
 

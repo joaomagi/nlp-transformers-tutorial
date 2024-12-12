@@ -2,19 +2,25 @@
 
 ## O que é Natural Language Processing ou Processamento de Linguagem Natural
 
+Vamos nos aprofundar mais no assunto.
+
 O Processamento de Linguagem Natural (NLP) é uma área da Inteligência Artificial que ensina um computador a entender e gerar conteúdos na linguagem humana. A tecnologia permite que a máquina analise e traduza textos, além de responder a perguntas e conversar com humanos.  
 Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, verificação gramatical, entre outros. Um exemplo mais específico são as assistentes virtuais como Siri, Cortana ou Alexa. Quando fazemos perguntas para esses assistentes virtuais, o NLP é o que permite que eles não apenas entendam a nossa solicitação, mas também respondam em linguagem natural.
+
+E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
 
 ---
 
 ## Natural Language Understanding ou Compreensão de Linguagem Natural (NLU)
 
-Vamos entender o conceito de **linguagem natural**. Dentro dos estudos da Linguística, é chamada de linguagem natural toda aquela que surge de forma espontânea de um grupo de fala. Temos como exemplos de línguas naturais o português, inglês, francês, espanhol, língua de sinais, etc.  
+Vamos entender o conceito de linguagem natural. Dentro dos estudos da Linguística, é chamada de linguagem natural toda aquela que surge de forma espontânea de um grupo de fala. Temos como exemplos de línguas naturais o português, inglês, francês, espanhol, língua de sinais, etc.  
 Já a linguagem de máquina, ou seja, aquela que faz com que computadores funcionem, é completamente diferente da linguagem humana. Para estabelecer um canal de comunicação com a máquina, é necessário traduzir essas informações para uma codificação binária. Essa comunicação seria mais primitiva, permitindo apenas requisitar que a máquina cumprisse tarefas e realizasse funções a partir de uma lógica básica. Contudo, ela não estaria realmente processando o que estamos dizendo nem compreendendo a fundo.
 
 O motivo para isso é que entender uma língua natural exige mais do que somente a tradução de zeros e uns. Uma língua tem regras gramaticais, sintaxe, intenção e lógica humana. Nosso cérebro realiza esse procedimento de forma impecável, tornando isso um grande desafio para as máquinas.  
 
 De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das palavras humanas naturais para um formato que o computador possa interpretar. Ela busca meios de converter o funcionamento do nosso cérebro ao processar, aprender e aplicar linguagem natural em um modelo que seja aplicável a máquinas. Dessa forma, essas máquinas poderão entender o que dizemos, processar essa informação, tomar decisões efetivas e realizar ações por conta própria.
+
+Você já parou para pensar na complexidade por trás da comunicação humana? E em como a tecnologia tenta reproduzir isso de forma precisa?  
 
 ---
 
@@ -53,3 +59,5 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 - **Geração de conteúdo:** A Inteligência Artificial pode gerar textos criativos, como livros, e-mails, trabalhos, a partir de comandos específicos.
 
 - **Moderação de conteúdo:** Assim como na análise de sentimentos, algumas plataformas online usam o NLP para identificar e remover conteúdos ofensivos ou inadequados, garantindo um ambiente seguro para os usuários.
+
+Qual dessas aplicações você já utilizou? Há alguma que te surpreenda pela utilidade ou inovação?  

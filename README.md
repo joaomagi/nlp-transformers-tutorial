@@ -44,13 +44,16 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
    
 8. **Melhoria contínua:** O modelo é constantemente aprimorado com a adição de novos dados e a utilização de técnicas mais avançadas.
 
-![Funcionamento NLP]()  
+![Funcionamento NLP](https://github.com/joaomagi/nlp-transformers-tutorial/blob/main/Imagens/FuncionamentoNLP.png)  
 
 ---
 
 # Aplicações do NLP
 
 ## Vamos falar com um pouco mais de detalhes sobre esses exemplos:
+
+![Aplicações NLP](https://github.com/joaomagi/nlp-transformers-tutorial/blob/main/Imagens/AplicacoesNLP.png)  
+
 
 - **Reconhecimento de fala e texto:** A famosa pesquisa por voz, presente em algumas ferramentas de pesquisa, chatbots e assistentes virtuais inteligentes, é responsável por converter dados de voz ou áudio em textos, o que facilita o uso de comandos de voz. Além disso, a transcrição de áudio para texto também desempenha um papel importante. Ambas as tecnologias têm um impacto significativo na vida de pessoas com analfabetismo ou deficiências, facilitando a interação dessas pessoas com a tecnologia e o mundo digital.
 

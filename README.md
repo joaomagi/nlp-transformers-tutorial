@@ -70,7 +70,7 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
 ## Bag-of-Words (BoW)
 
-BoW é uma técnica simples para converter textos em vetores esparsos(com muitos zeros), com foco na frequencia das palavras. Ele ignora tanto o contexto quanto a ordem das palavras não são relevantes, usado com mais frequencia em aplicações simples.
+BoW é uma técnica simples para converter textos em vetores esparsos(com muitos zeros), com foco na frequencia das palavras. Ele ignora tanto o contexto quanto a ordem das palavras que não são relevantes, usado com mais frequencia em aplicações simples.
 
 ## Características principais:
 

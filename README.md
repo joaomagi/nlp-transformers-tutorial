@@ -66,6 +66,32 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
 > Qual dessas aplicações você já utilizou? Há alguma que te surpreenda pela utilidade ou inovação?
 
+# Modelos Tradicionais
+
+## Bag-of-Words (BoW)
+
+BoW é uma técnica simples para converter textos em vetores esparsos(com muitos zeros), com foco na frequencia das palavras. Ele ignora tanto o contexto quanto a ordem das palavras não são relevantes, usado com mais frequencia em aplicações simples.
+
+## Características principais:
+
+- Cada frase é tratada como um vetor, no qual cada posição corresponde a uma palavra.
+  
+- A frequência das palavras é salva sem considerar ordem ou significado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://www.unite.ai/pt/o-que-%C3%A9-compreens%C3%A3o-de-linguagem-natural/
 https://www.oracle.com/br/artificial-intelligence/what-is-natural-language-processing/#definingdb

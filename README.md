@@ -7,7 +7,7 @@ Vamos nos aprofundar mais no assunto.
 O Processamento de Linguagem Natural (NLP) é uma área da Inteligência Artificial que ensina um computador a entender e gerar conteúdos na linguagem humana. A tecnologia permite que a máquina analise e traduza textos, além de responder a perguntas e conversar com humanos.  
 Alguns exemplos de NLP são: chatbots, tradução automática de texto ou fala, verificação gramatical, entre outros. Um exemplo mais específico são as assistentes virtuais como Siri, Cortana ou Alexa. Quando fazemos perguntas para esses assistentes virtuais, o NLP é o que permite que eles não apenas entendam a nossa solicitação, mas também respondam em linguagem natural.
 
-> E você, consegue imaginar como seria nossa vida sem essas tecnologias? Já pensou em como elas afetam nosso dia a dia?  
+> Pensar em algo para interagir com o leitor
 
 ---
 
@@ -20,7 +20,7 @@ O motivo para isso é que entender uma língua natural exige mais do que somente
 
 De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das palavras humanas naturais para um formato que o computador possa interpretar. Ela busca meios de converter o funcionamento do nosso cérebro ao processar, aprender e aplicar linguagem natural em um modelo que seja aplicável a máquinas. Dessa forma, essas máquinas poderão entender o que dizemos, processar essa informação, tomar decisões efetivas e realizar ações por conta própria.
 
-> Você já parou para pensar na complexidade por trás da comunicação humana? E em como a tecnologia tenta reproduzir isso de forma precisa?  
+> Pensar em algo para interagir com o leitor
 
 ---
 
@@ -64,7 +64,7 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
   ![Aplicações NLP](https://github.com/joaomagi/nlp-transformers-tutorial/blob/main/Imagens/AplicacoesNLP.png)  
 
-> Qual dessas aplicações você já utilizou? Há alguma que te surpreenda pela utilidade ou inovação?
+> Pensar em algo para interagir com o leitor
 
 # Modelos Tradicionais
 

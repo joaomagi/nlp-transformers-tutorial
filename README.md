@@ -73,7 +73,11 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 No contexto de NLP, um token consiste em uma unidade básicade um texto, como uma palavra, subpalavra, ou símbolo.
 
 ## Tokenização
-A Tokenização consiste em separar um grande texto em várias tokens menores para facilitar sua análise e processamento
+
+A Tokenização consiste em separar um grande texto em várias tokens menores para facilitar sua análise e processamento.
+Imagine que você está ensinando uma criança a ler, em vez de apresentar grandes parágrafos complexos, você começaria apresentado primeiro as letras individuais e após isso sílabas e, por fim, palavras inteiras. A tokenização funciona de forma semelhante separando frases em palavras.
+
+O objetivo da tokenização é traduzir o texto de uma maneira facil e sem perder o contexto para que as máquinas consigam entender. Ao converter o texto em tokens os algoritomos identificam padrões mais facilmente. 
 
 
 

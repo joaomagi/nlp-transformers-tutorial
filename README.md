@@ -66,6 +66,8 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
 > Pensar em algo para interagir com o leitor
 
+---
+
 # Tokenização
 
 ## O que é um token?
@@ -79,7 +81,7 @@ Imagine que você está ensinando uma criança a ler, em vez de apresentar grand
 
 O objetivo da tokenização é traduzir o texto de uma maneira facil e sem perder o contexto para que as máquinas consigam entender. Ao converter o texto em tokens os algoritomos identificam padrões mais facilmente. 
 
-
+---
 
 # Modelos Tradicionais
 

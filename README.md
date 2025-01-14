@@ -78,6 +78,8 @@ BoW é uma técnica simples para converter textos em vetores esparsos(com muitos
   
 - A frequência das palavras é salva sem considerar ordem ou significado
 
+dector de spam
+
 
 
 

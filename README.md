@@ -70,7 +70,7 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
 ## O que é um token?
 
-No contexto de NLP, um token consiste em uma unidade básicade um texto, como uma palavra, subpalavra, ou símbolo.
+No contexto de NLP, um token consiste em uma unidade básica de um texto, como uma palavra, subpalavra, ou símbolo.
 
 ## Tokenização
 

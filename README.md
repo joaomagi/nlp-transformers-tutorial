@@ -66,6 +66,8 @@ De forma resumida, a NLU é uma subárea do NLP responsável pela tradução das
 
 > Pensar em algo para interagir com o leitor
 
+# Tokenização
+
 # Modelos Tradicionais
 
 ## Bag-of-Words (BoW)
@@ -78,7 +80,7 @@ BoW é uma técnica simples para converter textos em vetores esparsos(com muitos
   
 - A frequência das palavras é salva sem considerar ordem ou significado
 
-### Tokenização
+
 
 dector de spam
 

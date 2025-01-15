@@ -91,13 +91,19 @@ BoW é uma técnica simples para converter textos em vetores esparsos(com muitos
 
 ## Características principais:
 
+- Fácil Aplicabilidade
+
 - Cada frase é tratada como um vetor, no qual cada posição corresponde a uma palavra.
   
 - A frequência das palavras é salva sem considerar ordem ou significado
 
+## Aplicações BoW
 
+- Dector de spam
 
-dector de spam
+- Sistemas de recomendação onde a análise de sentimentos para entender as opiniões dos usuários sobre um produto ou serviço.
+
+- Classificação de textos
 
 
 

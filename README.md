@@ -107,9 +107,21 @@ BoW é uma técnica simples para converter textos em vetores esparsos(com muitos
 
 ## TF-IDF (Term Frequency - Inverse Document Frequency)
 
-Avalia a importância de uma palavra em um documento, resolve algumas limitações do BoW
+Avalia a importância de uma palavra em um documento, TF-IDF introduz uma noção de relevância, reduzindo a influência de palavras muitos comuns no texto (ex: "o", "é", "de") destacando palavras mais relevantes  e mais raras e significativas, o que resolve algumas limitações do BoW.
+As palavras semanticamente semelhantes ("bom" e "ótimo") não são relacionadas, e como o BoW não entende frases ou estruturas complexas.
+
+## Características principais:
+
+- Fácil Aplicabilidade
+
+- Considera a importância e relevância das palavras e reduz o impacto de palavras comuns 
+
+- Não captura contexto e ignora a relação entre as palavras, Assim palavras como "não gosto" não são diferenciadas de "gosto", já que as palavras são analisadas individualmente.
 
 
+## Aplicações TF-IDF:
+
+- Palavra chaves
 
 
 

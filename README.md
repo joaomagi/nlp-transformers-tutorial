@@ -122,9 +122,11 @@ As palavras semanticamente semelhantes ("bom" e "ótimo") não são relacionadas
 
 ## Aplicações TF-IDF:
 
-- Palavra chaves
+- Encontrar palavras chaves em textos
 
+- 
 
+ 
 
 
 

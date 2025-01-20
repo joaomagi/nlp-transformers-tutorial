@@ -123,16 +123,6 @@ Avalia a importância de uma palavra em um documento, resolve algumas limitaçõ
 
 
 
-https://www.unite.ai/pt/o-que-%C3%A9-compreens%C3%A3o-de-linguagem-natural/
-https://www.oracle.com/br/artificial-intelligence/what-is-natural-language-processing/#definingdb
-https://blog.betrybe.com/tecnologia/nlu-tudo-sobre/#1
-
-https://tecnoblog.net/responde/o-que-e-processamento-de-linguagem-natural-nlp/
-
-https://www.geeksforgeeks.org/natural-language-processing-overview/
-
-https://www.datacamp.com/blog/what-is-natural-language-processing
-
 
 
 

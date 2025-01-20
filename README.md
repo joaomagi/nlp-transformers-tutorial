@@ -105,6 +105,9 @@ BoW é uma técnica simples para converter textos em vetores esparsos(com muitos
 
 - Classificação de textos
 
+## TF-IDF (Term Frequency - Inverse Document Frequency)
+
+Avalia a importância de uma palavra em um documento, resolve algumas limitações do BoW
 
 
 

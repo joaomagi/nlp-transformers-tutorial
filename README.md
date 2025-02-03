@@ -128,7 +128,27 @@ As palavras semanticamente semelhantes ("bom" e "ótimo") não são relacionadas
 
 - Análise de Tendências
 
- 
+## Word2Vec
+
+
+
+## Características principais:
+
+- 
+
+- 
+  
+- 
+
+## Aplicações Word2Vec
+
+- 
+
+- 
+  
+- 
+
+
 
 
 
